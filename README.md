@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # To-do List App
 
@@ -74,4 +73,4 @@ This app is a simple to-do app that allows you to create a list of tasks you nee
 
 ## Status
 
-# This app is my first react-native app. It is a sample app that I built to learn react-native.
+This app is my first react-native app. It is a sample app that I built to learn react-native.
